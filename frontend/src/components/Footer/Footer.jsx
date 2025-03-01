@@ -24,13 +24,13 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>+91-7282762742</li>
-                <li>contact@swaadmantra.com</li>
+                <li>contact@quickmunch.com</li>
             </ul>
         </div>
         
       </div>
       <hr />
-      <p className='footer-copyright'>Copyrights 2025 © SwaadMantra.com All right Reserved</p>
+      <p className='footer-copyright'>Copyrights 2025 QuickMunch.com All right Reserved</p>
     </div>
   )
 }
